@@ -1,0 +1,12 @@
+{
+    "ID": "A9146CE148D29A491476F32DB5E2EB9F",
+    "ActionKeyword": "aud",
+    "Name": "AudioDevices",
+    "Description": "A plugin for Flow Launcher to list and switch between audio devices",
+    "Author": "adielBm",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/adielBm/Flow.Launcher.Plugin.AudioDevices",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.AudioDevices.dll"
+}
